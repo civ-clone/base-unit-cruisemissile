@@ -13,7 +13,8 @@
   "files": [
     "CruiseMissile.js",
     "CruiseMissile.d.ts",
-    "CruiseMissile.js.map"
+    "CruiseMissile.js.map",
+    "CruiseMissile.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
